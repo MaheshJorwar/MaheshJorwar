@@ -1,4 +1,4 @@
-<div align="center"><img src="banner.png" alt="bg" width="100%" /></div>
+<div align="center"><img src="banner_mj.png" alt="bg" width="100%" /></div>
 <h1 align="center">Hi 👋, I'm Mahesh Jorwar</h1>
 <h3 align="center">A Data Science geek</h3>
 
